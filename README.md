@@ -2,6 +2,11 @@
 
 A new Flutter application.
 
+- A super simple demo app for flutter's PageView and BottomNavigationBar widgets, yes just that.
+
+
+<img src=https://github.com/mohamed0fadel/Flutter-PageView/blob/master/screenshot.gif width="400"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
